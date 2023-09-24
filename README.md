@@ -24,7 +24,7 @@
 </p>
 
 ### Courses
-  <code><img width="10%" title="QA.GURU" src="images/logo/qa-guru80.png"></code>
-  <code><img width="10%" title="https://software-testing.ru/edu/" src="images/logo/softwaretesting.png"></code>
+  <code><img width="30%" title="QA.GURU" src="images/logo/qa-guru80.png"></code>
+  <code><img width="30%" title="https://software-testing.ru/edu/" src="images/logo/softwaretesting.png"></code>
 
 ## 💾 Projects:
