@@ -5,6 +5,8 @@
 - Work QA Manual engineer since 2020.
 - I learn write autotests in Python.
 
+
+
 ### 🛠️ Stack and tools:
 <p  align="center">
   <code><img width="5%" title="Pycharm" src="images/logo/pycharm.png"></code>
@@ -23,8 +25,12 @@
   <code><img width="5%" title="Telegram" src="images/logo/tg.png"></code>
 </p>
 
-### Courses
+
+
+### :student: Courses
   <code><img width="20%" title="QA.GURU" src="images/logo/qa-guru80.png"></code>
   <code><img width="20%" title="https://software-testing.ru/edu/" src="images/logo/softwaretesting.png"></code>
+
+
 
 ## 💾 Projects:
