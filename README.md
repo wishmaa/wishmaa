@@ -34,4 +34,4 @@
 
 
 ## 💾 Projects:
-<a href="https://github.com/wishmaa/UI_part">UI part of the diploma</a>
+### <a href="https://github.com/wishmaa/UI_part">UI part of the diploma</a>
