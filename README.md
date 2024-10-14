@@ -2,7 +2,7 @@
 
 # About me
 - I'm manual and automation Engineer
-- Work QA Manual engineer since 2020.
+- Work QA Manual engineer since 2021.
 - I learn write autotests in Python.
 
 
